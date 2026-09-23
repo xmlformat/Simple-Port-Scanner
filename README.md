@@ -53,7 +53,7 @@ Python 3.13.13
 Open Command Prompt or PowerShell and run:
 
 ```powershell
-git clone https://github.com/xcvmsdvksndvskjv/Simple-Port-Scanner
+git clone https://github.com/xmlformat/Simple-Port-Scanner
 cd Simple-Port-Scanner
 ```
 
@@ -85,7 +85,7 @@ sudo apt install python3 git
 #### 2. Clone the repository
 
 ```bash
-git clone https://github.com/xcvmsdvksndvskjv/Simple-Port-Scanner
+git clone https://github.com/xmlformat/Simple-Port-Scanner
 cd python-port-scanner
 ```
 
